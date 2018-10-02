@@ -1,0 +1,93 @@
+@font-face{
+    font-family: 'typewriter';
+     src: url(Fragmentcore.otf);
+}
+#mainbox{
+    width: 960px;
+    height: 800px;
+    margin: auto;
+    
+    
+
+
+
+}
+
+#titlebox{
+   
+    width: 960px;
+    height: 100px;
+    
+  
+    
+}
+
+#textbox{
+   
+    width: 25%;
+    height: 70px;
+    margin: auto;
+    position: relative;
+   top: -5px;
+    
+    
+   
+}
+#headertext{
+    margin: auto;
+    text-align: center;
+    margin: 15px 0px 0px 0px;
+    color: black;
+    font-size: 30px;
+    font-family: 'typewriter';
+
+    position: relative;
+    
+
+    
+}
+#contentmain{
+    width: 960px;
+    height: 700px;
+    
+    margin: auto;
+    
+   
+   
+}
+
+
+
+#buttonbox {
+    width: 25%;
+    height: 700px;
+    margin: auto;
+    float: left;
+   
+
+}
+
+.buttons {
+    margin: 3px;
+    width: 150px;
+    height: 75px;
+}
+
+#gifbox {
+    width: 73%;
+    height: 700px;
+    margin: auto;
+    float: left;
+   
+    
+    
+}
+
+#addGif {
+    
+    font-family: 'typewriter';
+}
+
+#comedy-input{
+    font-family: 'typewriter';
+}
